@@ -80,6 +80,8 @@ landingContent:
             url: how-to-update-over-the-air.md
           - text: Update Azure Percept DK over a USB-C connection
             url: how-to-update-via-usb.md
+          - text: Update Azure Percept Modules over IoT Hub
+            url: how-to-update-modules.md
       - linkListType: download
         links:
           - text: Software releases for OTA updates
